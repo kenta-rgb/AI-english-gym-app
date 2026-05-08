@@ -1,0 +1,29 @@
+title: AI英会話練習
+description: 英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するスキル
+show_downloads: false
+theme: jekyll-theme-minimal
+
+# SEO 設定
+keywords:
+  - 英会話
+  - AI会話
+  - アプリデプロイ
+  - セキュリティ
+  - Cloudflare
+  - GitHub Copilot
+  - スキル
+
+# GitHub Pages 設定
+baseurl: /AI-english-conversation-app
+url: https://your-username.github.io/AI-english-conversation-app
+
+# ビルド設定
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO タグ
+author:
+  name: AI Assistant
+  twitter: 
+  github: 
