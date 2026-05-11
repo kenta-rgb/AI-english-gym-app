@@ -1,11 +1,11 @@
-title: AI英会話練習
-description: 英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するスキル
+title: AI英会話ジム
+description: 英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するスキル（AI英会話ジム）
 show_downloads: false
 theme: jekyll-theme-minimal
 
 # SEO 設定
 keywords:
-  - 英会話
+  - 英会話ジム
   - AI会話
   - アプリデプロイ
   - セキュリティ
@@ -14,8 +14,8 @@ keywords:
   - スキル
 
 # GitHub Pages 設定
-baseurl: /AI-english-conversation-app
-url: https://your-username.github.io/AI-english-conversation-app
+baseurl: /AI-english-gym-app
+url: https://your-username.github.io/AI-english-gym-app
 
 # ビルド設定
 plugins:

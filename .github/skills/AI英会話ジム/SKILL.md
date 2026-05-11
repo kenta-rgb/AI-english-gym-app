@@ -1,9 +1,9 @@
 ---
-name: AI英会話練習
+name: AI英会話ジム
 user-invocable: true
-description: "英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するための再利用可能なワークフロー。AI英会話練習、アプリデプロイ、セキュリティチェック、Cloudflare Pages/Workers公開"
+description: "英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するための再利用可能なワークフロー。AI英会話ジム、アプリデプロイ、セキュリティチェック、Cloudflare Pages/Workers公開"
 argument-hint: "対象アプリとデプロイ先、およびセキュリティ確認の範囲を説明してください。"
-keywords: ["英会話", "AI会話", "アプリデプロイ", "セキュリティ", "公開", "Cloudflare", "API", "デプロイ前チェック"]
+keywords: ["英会話ジム", "AI会話", "アプリデプロイ", "セキュリティ", "公開", "Cloudflare", "API", "デプロイ前チェック"]
 icon: icon.svg
 ---
 

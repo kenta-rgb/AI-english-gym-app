@@ -7,8 +7,8 @@
 ### 1. GitHub リポジトリを作成
 
 1. [GitHub](https://github.com/new) にアクセス
-2. リポジトリ名：`AI-english-conversation-app`（推奨）
-3. 説明：`英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するスキル`
+2. リポジトリ名：`AI-english-gym-app`（推奨）
+3. 説明：`AI英会話ジム - 英会話アプリを安全にデプロイし、公開前にセキュリティリスクを確認・修正するスキル`
 4. **Public** を選択（Google 検索対応のため）
 5. **Initialize this repository with:**
    - ✓ README を選択 → 後で上書きするので不要
@@ -21,7 +21,7 @@
 
 ```bash
 # GitHub リポジトリをリモートとして追加
-git remote add origin https://github.com/YOUR_USERNAME/AI-english-conversation-app.git
+git remote add origin https://github.com/YOUR_USERNAME/AI-english-gym-app.git
 
 # ブランチ名を main に変更（GitHub デフォルト）
 git branch -M main

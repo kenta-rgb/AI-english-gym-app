@@ -39,7 +39,7 @@ git commit -m "Configure GitHub Pages URLs for username: $USERNAME"
 
 ```powershell
 # リモートリポジトリを追加
-git remote add origin https://github.com/YOUR_USERNAME/AI-english-conversation-app.git
+git remote add origin https://github.com/YOUR_USERNAME/AI-english-gym-app.git
 
 # ブランチ名を main に変更
 git branch -M main
@@ -62,7 +62,7 @@ git push -u origin main
 1. [Google Search Console](https://search.google.com/search-console) を開く
 2. **URL プレフィックス** で GitHub Pages URL を登録：
    ```
-   https://YOUR_USERNAME.github.io/AI-english-conversation-app/
+   https://YOUR_USERNAME.github.io/AI-english-gym-app/
    ```
 3. 所有権を確認（HTML ファイル方式推奨）
 4. サイトマップを追加：`/sitemap.xml`

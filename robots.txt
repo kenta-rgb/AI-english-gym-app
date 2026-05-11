@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-username.github.io/AI-english-conversation-app/sitemap.xml
+Sitemap: https://your-username.github.io/AI-english-gym-app/sitemap.xml
