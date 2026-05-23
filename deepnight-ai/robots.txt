@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kenta-rgb.github.io/AI-english-gym-app/deepnight-ai/sitemap.xml

@@ -1,0 +1,10 @@
+{
+  "name": "DeepNight AI",
+  "short_name": "DeepNight",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#7c5cff",
+  "lang": "ja",
+  "description": "深夜の孤独や不安に寄り添うAI相談アプリ。弱音を安心して置ける場所。"
+}
